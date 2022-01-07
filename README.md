@@ -1,4 +1,4 @@
-# Leetcoding-Challenge-2021
+# Leetcoding-Challenge
 
 This repository has been created while I solve different Leetcoding Challenges which can be seen as follows.
 * June - https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/
